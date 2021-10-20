@@ -1,0 +1,1 @@
+A simple web implementation of an aspect with annotations Spring style
